@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on : Currently I am working on my IOT pi management system for my "smart home" ESP and Pi projects including a security system that uses nginx streaming services and openCV along with discord and email bots to notify when the alarm goes off and a scale with scanner and upc lookup with esp camera boards in the kitchen to weigh pantry goods upon consumption to generate nutrition reports based on weight in food consumed. I am also re writing my React.js websites with TS and re-structuring them to be more secure.
 
-- 🌱 I’m currently learning : To improve my webservices and how to properly and adequetly secure my webservices, this covers a lot of different technologies so its no small effort.
+- 🌱 I’m currently learning : To improve my webservices and how to properly and adequetly secure my webservices, this covers a lot of different technologies so its no small effort. I feel like I have learned enough stacks and I currently just plan on improving my skill in utilizing the tools I learned and applying the concepts and theories for code and service development rather than learning more tools.
 
   oh.. and.. I am also learning to be more consistant with my commits and posting my work after updating my code base locally.
 
