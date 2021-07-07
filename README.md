@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning : To improve my webservices and how to properly and adequetly secure my webservices, this covers a lot of different technologies so its no small effort.
 
+ oh.. and.. I am also learning to be more consistant with my commits and posting my work after updating my code base locally.
+
 - 👯 I’m looking to collaborate on : My Karma project and my CreepCript projects would be amazing to get going again, currently re factoring the sites and backend for both using typescript, I am moving the projects from MongoDB to PostgreSQL and re developing the express I had been using to account for the database change and a lot of added security modifications to the user authentication systems and associated features. 
 
 - 🤔 I’m looking for help with : Finding a Internship to get my foot in the door and transition from a job in IT to a job in development.
